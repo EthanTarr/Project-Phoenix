@@ -1,0 +1,11 @@
+Name:BadGuy2
+Health:100
+Mana:100
+Speed:10
+Element:0
+Sprite:Wisp
+Skills:Fire
+Magic:Thunder
+Items:Harm.3,Speed.2,Potion.1
+Specials:
+AI:Test

@@ -1,0 +1,11 @@
+Wisp:
+What do you want to do?
+Wisp2:
+I'm tired.
+---
+Wait-test2
+Attack-fightBadGuy,BadGuy2
+Convince-test2
+Fall Asleep-test3
+---
+***

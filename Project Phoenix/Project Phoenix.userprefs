@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TextScroll.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameManager.cs" Line="258" Column="90" />
+      <File FileName="Assets\Scripts\BattleManager.cs" Line="1098" Column="3" />
+      <File FileName="Assets\Scripts\EmptyStruct.cs" Line="363" Column="25" />
+      <File FileName="Assets\Scripts\Characters\Resources\BadGuy.txt" Line="9" Column="30" />
+      <File FileName="Assets\Scripts\Characters\Resources\BadGuy2.txt" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Characters\Test.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Characters\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dialog\Resources\test.txt" Line="7" Column="27" />
+      <File FileName="Assets\Scripts\Dialog\Resources\test2.txt" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\Dialog\Resources\test3.txt" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TextScroll.cs" Line="42" Column="43" />
+      <File FileName="Assets\Scripts\ButtonStuff.cs" Line="31" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
